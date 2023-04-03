@@ -1,4 +1,9 @@
 ### Hi there 👋
+Name = "Raj De Modak"
+Interests = ["Coding", "Problem Solving", "Graphic Designing", "Exploring various OS :)"]
+Languages = ["C", "Python", "HTML", "CSS"]
+OS = ["Ubuntu", "Windows"]
+
 
 <!--
 **rajdemodak01/rajdemodak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
