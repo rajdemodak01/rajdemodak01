@@ -1,8 +1,8 @@
 ### Hi there 👋
-Name = "Raj De Modak"
-Interests = ["Coding", "Problem Solving", "Graphic Designing", "Exploring various OS :)"]
-Languages = ["C", "Python", "HTML", "CSS"]
-OS = ["Ubuntu", "Windows"]
+- Name = "Raj De Modak"
+- Interests = ["Coding", "Problem Solving", "Graphic Designing", "Exploring various OS :)"]
+- Languages = ["C", "Python", "HTML", "CSS"]
+- OS = ["Ubuntu", "Windows"]
 
 
 <!--
