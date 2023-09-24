@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name = "Raj De Modak"<br>Interests = ["Coding", "Problem-Solving", "Graphic Designing", "Exploring various OS :)"]<br>Languages = ["C", "Python", "HTML", "CSS"]<br>OS = ["Ubuntu", "Windows"]<br>Pursuing B.Tech in CSE at TMSL<br>HS Board 10th Rank Holder<br>ISP @ Internshala<br>Member @IICTMSL @Samarth<br>Volunteer @Samaritans
+Name = "Raj De Modak"<br>Interests = ["Coding", "Problem-Solving", "Graphic Designing", "Exploring various OS :)"]<br>Languages = ["C", "Python", "Java", "HTML", "CSS"]<br>OS = ["Ubuntu", "Windows"]<br>Pursuing B.Tech in CSE at TMSL<br>HS Board 10th Rank Holder<br>ISP @ Internshala<br>Member @IICTMSL @Samarth<br>Volunteer @Samaritans
 
 
 ## 🌐 Socials:
